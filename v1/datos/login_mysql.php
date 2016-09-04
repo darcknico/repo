@@ -4,7 +4,7 @@
  *
  */
 
-define("NOMBRE_HOST", "127.0.0.1"); //nombre del host
-define("BASE_DE_DATOS", "test"); //nombre de la base de datos
-define("USUARIO", "root"); // nombre del usuario
+define("NOMBRE_HOST", "http://proyectosinformaticos.esy.es/"); //nombre del host
+define("BASE_DE_DATOS", "u488125577_repo"); //nombre de la base de datos
+define("USUARIO", "u488125577_root"); // nombre del usuario
 define("CONTRASENIA", ""); // contrasenia
